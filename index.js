@@ -30,7 +30,7 @@ set diameter(diameter){
 
 
 
-  set area(){
+  set area(area){
     this.radius = Math.sqrt( area / pi )
   }
 }
